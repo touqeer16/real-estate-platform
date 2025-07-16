@@ -49,3 +49,49 @@ This project features:
 
 ## Architecture
 
+- Frontend communicates with backend using RESTful API calls.
+- Backend handles business logic, authentication, and database CRUD operations.
+- MySQL stores all user data, property listings, and transactions.
+
+---
+
+## Installation
+
+### Prerequisites
+- PHP >= 7.4 with necessary extensions
+- Composer
+- Node.js & npm
+- MySQL Server
+- Angular CLI (`npm install -g @angular/cli`)
+
+### Backend Setup (CodeIgniter)
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/real-estate-platform.git
+cd real-estate-platform/backend
+
+
+
+---
+
+## ⚙️ Installation
+
+### Prerequisites
+
+- PHP >= 7.4
+- Composer
+- Node.js & npm
+- Angular CLI
+- MySQL Server
+
+---
+
+### Backend Setup (CodeIgniter)
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/real-estate-platform.git
+cd real-estate-platform/backend
+
